@@ -10,4 +10,5 @@ SKIP_SAVE_INTERMEDIATE=-sspi
 MODEL_RESULTS_NAME=experiment_${MODELNAME}
 STALL_CHECK_SHUTDOWN_TIME_SECONDS=300
 
-horovodrun -np 1 --stall-check-shutdown-time-seconds ${STALL_CHECK_SHUTDOWN_TIME_SECONDS} ludwig train --training_set ${TRAIN}  --validation_set ${VALID} --random_seed 42 -cf ${MODELFILE}  -uh --model_name ${MODELNAME}  ${SKIP_SAVE_INTERMEDIATE} 
+#horovodrun -np 8 --stall-check-shutdown-time-seconds ${STALL_CHECK_SHUTDOWN_TIME_SECONDS} ludwig train --training_set ${TRAIN}  --validation_set ${VALID} --random_seed 42 -cf ${MODELFILE}  -uh --model_name ${MODELNAME}  ${SKIP_SAVE_INTERMEDIATE} 
+ludwig train --training_set ${TRAIN}  --validation_set ${VALID} --random_seed 42 -cf ${MODELFILE}  -uh --model_name ${MODELNAME}  ${SKIP_SAVE_INTERMEDIATE} 

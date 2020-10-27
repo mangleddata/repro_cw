@@ -1,0 +1,687 @@
+{
+    "FEATURE_0_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_10_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_11_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_12_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_13_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_14_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_15_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_16_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_17_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_18_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_19_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_1_C": {
+        "idx2str": [
+            "<UNK>",
+            "CATB",
+            "CATD"
+        ],
+        "preprocessing": {
+            "computed_fill_value": "<UNK>",
+            "fill_value": "<UNK>",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000
+        },
+        "str2freq": {
+            "<UNK>": 0,
+            "CATB": 99,
+            "CATD": 99
+        },
+        "str2idx": {
+            "<UNK>": 0,
+            "CATB": 1,
+            "CATD": 2
+        },
+        "vocab_size": 3
+    },
+    "FEATURE_20_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_21_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_22_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_23_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_24_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_25_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_26_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_27_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_28_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_29_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_2_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_30_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_31_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_32_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_33_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_34_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_35_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_36_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_37_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_38_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_39_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_3_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_40_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_41_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_42_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_43_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_44_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_45_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_46_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_47_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_48_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_49_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_4_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_50_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_51_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_5_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_6_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_7_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_8_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "FEATURE_9_N": {
+        "preprocessing": {
+            "computed_fill_value": 0,
+            "fill_value": 0,
+            "missing_value_strategy": "fill_with_const",
+            "normalization": null
+        }
+    },
+    "PREDICT_0_C": {
+        "idx2str": [
+            "<UNK>",
+            "RESULTA",
+            "RESULTB",
+            "RESULTC"
+        ],
+        "preprocessing": {
+            "computed_fill_value": "<UNK>",
+            "fill_value": "<UNK>",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000
+        },
+        "str2freq": {
+            "<UNK>": 0,
+            "RESULTA": 158,
+            "RESULTB": 21,
+            "RESULTC": 19
+        },
+        "str2idx": {
+            "<UNK>": 0,
+            "RESULTA": 1,
+            "RESULTB": 2,
+            "RESULTC": 3
+        },
+        "vocab_size": 4
+    },
+    "PREDICT_1_C": {
+        "idx2str": [
+            "<UNK>",
+            "RESULTA",
+            "RESULTC",
+            "RESULTB"
+        ],
+        "preprocessing": {
+            "computed_fill_value": "<UNK>",
+            "fill_value": "<UNK>",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000
+        },
+        "str2freq": {
+            "<UNK>": 0,
+            "RESULTA": 144,
+            "RESULTB": 27,
+            "RESULTC": 27
+        },
+        "str2idx": {
+            "<UNK>": 0,
+            "RESULTA": 1,
+            "RESULTB": 3,
+            "RESULTC": 2
+        },
+        "vocab_size": 4
+    },
+    "PREDICT_2_C": {
+        "idx2str": [
+            "<UNK>",
+            "RESULTA",
+            "RESULTB",
+            "RESULTC"
+        ],
+        "preprocessing": {
+            "computed_fill_value": "<UNK>",
+            "fill_value": "<UNK>",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000
+        },
+        "str2freq": {
+            "<UNK>": 0,
+            "RESULTA": 120,
+            "RESULTB": 41,
+            "RESULTC": 37
+        },
+        "str2idx": {
+            "<UNK>": 0,
+            "RESULTA": 1,
+            "RESULTB": 2,
+            "RESULTC": 3
+        },
+        "vocab_size": 4
+    },
+    "PREDICT_3_C": {
+        "idx2str": [
+            "<UNK>",
+            "RESULTA",
+            "RESULTB",
+            "RESULTC"
+        ],
+        "preprocessing": {
+            "computed_fill_value": "<UNK>",
+            "fill_value": "<UNK>",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000
+        },
+        "str2freq": {
+            "<UNK>": 0,
+            "RESULTA": 92,
+            "RESULTB": 55,
+            "RESULTC": 51
+        },
+        "str2idx": {
+            "<UNK>": 0,
+            "RESULTA": 1,
+            "RESULTB": 2,
+            "RESULTC": 3
+        },
+        "vocab_size": 4
+    },
+    "PREDICT_4_C": {
+        "idx2str": [
+            "<UNK>",
+            "RESULTA",
+            "RESULTB",
+            "RESULTC"
+        ],
+        "preprocessing": {
+            "computed_fill_value": "<UNK>",
+            "fill_value": "<UNK>",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000
+        },
+        "str2freq": {
+            "<UNK>": 0,
+            "RESULTA": 109,
+            "RESULTB": 51,
+            "RESULTC": 38
+        },
+        "str2idx": {
+            "<UNK>": 0,
+            "RESULTA": 1,
+            "RESULTB": 2,
+            "RESULTC": 3
+        },
+        "vocab_size": 4
+    },
+    "PREDICT_5_C": {
+        "idx2str": [
+            "<UNK>",
+            "RESULTB",
+            "RESULTA",
+            "RESULTC"
+        ],
+        "preprocessing": {
+            "computed_fill_value": "<UNK>",
+            "fill_value": "<UNK>",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000
+        },
+        "str2freq": {
+            "<UNK>": 0,
+            "RESULTA": 64,
+            "RESULTB": 73,
+            "RESULTC": 61
+        },
+        "str2idx": {
+            "<UNK>": 0,
+            "RESULTA": 2,
+            "RESULTB": 1,
+            "RESULTC": 3
+        },
+        "vocab_size": 4
+    },
+    "PREDICT_6_C": {
+        "idx2str": [
+            "<UNK>",
+            "RESULTB",
+            "RESULTC",
+            "RESULTA"
+        ],
+        "preprocessing": {
+            "computed_fill_value": "<UNK>",
+            "fill_value": "<UNK>",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000
+        },
+        "str2freq": {
+            "<UNK>": 0,
+            "RESULTA": 24,
+            "RESULTB": 98,
+            "RESULTC": 76
+        },
+        "str2idx": {
+            "<UNK>": 0,
+            "RESULTA": 3,
+            "RESULTB": 1,
+            "RESULTC": 2
+        },
+        "vocab_size": 4
+    },
+    "PREDICT_7_C": {
+        "idx2str": [
+            "<UNK>",
+            "RESULTC",
+            "RESULTB",
+            "RESULTA"
+        ],
+        "preprocessing": {
+            "computed_fill_value": "<UNK>",
+            "fill_value": "<UNK>",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000
+        },
+        "str2freq": {
+            "<UNK>": 0,
+            "RESULTA": 31,
+            "RESULTB": 76,
+            "RESULTC": 91
+        },
+        "str2idx": {
+            "<UNK>": 0,
+            "RESULTA": 3,
+            "RESULTB": 2,
+            "RESULTC": 1
+        },
+        "vocab_size": 4
+    },
+    "PREDICT_8_C": {
+        "idx2str": [
+            "<UNK>",
+            "RESULTC",
+            "RESULTB",
+            "RESULTA"
+        ],
+        "preprocessing": {
+            "computed_fill_value": "<UNK>",
+            "fill_value": "<UNK>",
+            "lowercase": false,
+            "missing_value_strategy": "fill_with_const",
+            "most_common": 10000
+        },
+        "str2freq": {
+            "<UNK>": 0,
+            "RESULTA": 43,
+            "RESULTB": 43,
+            "RESULTC": 112
+        },
+        "str2idx": {
+            "<UNK>": 0,
+            "RESULTA": 3,
+            "RESULTB": 2,
+            "RESULTC": 1
+        },
+        "vocab_size": 4
+    }
+}
