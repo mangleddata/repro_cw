@@ -1,0 +1,208 @@
+combiner:
+  activation: relu
+  dropout: false
+  fc_layers: null
+  fc_size: 128
+  initializer: null
+  norm: null
+  num_fc_layers: 1
+  regularization_lambda: 0.001
+  regularize: true
+  type: concat
+input_features:
+- name: FEATURE_0_N
+  type: numerical
+- name: FEATURE_1_C
+  type: category
+- name: FEATURE_2_N
+  type: numerical
+- name: FEATURE_3_N
+  type: numerical
+- name: FEATURE_4_N
+  type: numerical
+- name: FEATURE_5_N
+  type: numerical
+- name: FEATURE_6_N
+  type: numerical
+- name: FEATURE_7_N
+  type: numerical
+- name: FEATURE_8_N
+  type: numerical
+- name: FEATURE_9_N
+  type: numerical
+- name: FEATURE_10_N
+  type: numerical
+- name: FEATURE_11_N
+  type: numerical
+- name: FEATURE_12_N
+  type: numerical
+- name: FEATURE_13_N
+  type: numerical
+- name: FEATURE_14_N
+  type: numerical
+- name: FEATURE_15_N
+  type: numerical
+- name: FEATURE_16_N
+  type: numerical
+- name: FEATURE_17_N
+  type: numerical
+- name: FEATURE_18_N
+  type: numerical
+- name: FEATURE_19_N
+  type: numerical
+- name: FEATURE_20_N
+  type: numerical
+- name: FEATURE_21_N
+  type: numerical
+- name: FEATURE_22_N
+  type: numerical
+- name: FEATURE_23_N
+  type: numerical
+- name: FEATURE_24_N
+  type: numerical
+- name: FEATURE_25_N
+  type: numerical
+- name: FEATURE_26_N
+  type: numerical
+- name: FEATURE_27_N
+  type: numerical
+- name: FEATURE_28_N
+  type: numerical
+- name: FEATURE_29_N
+  type: numerical
+- name: FEATURE_30_N
+  type: numerical
+- name: FEATURE_31_N
+  type: numerical
+- name: FEATURE_32_N
+  type: numerical
+- name: FEATURE_33_N
+  type: numerical
+- name: FEATURE_34_N
+  type: numerical
+- name: FEATURE_35_N
+  type: numerical
+- name: FEATURE_36_N
+  type: numerical
+- name: FEATURE_37_N
+  type: numerical
+- name: FEATURE_38_N
+  type: numerical
+- name: FEATURE_39_N
+  type: numerical
+- name: FEATURE_40_N
+  type: numerical
+- name: FEATURE_41_N
+  type: numerical
+- name: FEATURE_42_N
+  type: numerical
+- name: FEATURE_43_N
+  type: numerical
+- name: FEATURE_44_N
+  type: numerical
+- name: FEATURE_45_N
+  type: numerical
+- name: FEATURE_46_N
+  type: numerical
+- name: FEATURE_47_N
+  type: numerical
+- name: FEATURE_48_N
+  type: numerical
+- name: FEATURE_49_N
+  type: numerical
+- name: FEATURE_50_N
+  type: numerical
+- name: FEATURE_51_N
+  type: numerical
+output_features:
+- loss:
+    class_weights:
+    - 0
+    - 1.0
+    - 107.45504731861199
+    - 111.40883074407195
+    weight: 1
+  name: PREDICT_0_C
+  type: category
+- loss:
+    class_weights:
+    - 0
+    - 1.0
+    - 37.93897524467473
+    - 37.98270893371758
+    weight: 1
+  name: PREDICT_1_C
+  type: category
+- loss:
+    class_weights:
+    - 0
+    - 1.0
+    - 15.7028025477707
+    - 16.16192474105153
+    weight: 1
+  name: PREDICT_2_C
+  type: category
+- loss:
+    class_weights:
+    - 0
+    - 1.0
+    - 6.965697337030112
+    - 7.105432780847146
+    weight: 1
+  name: PREDICT_3_C
+  type: category
+- loss:
+    class_weights:
+    - 0
+    - 1.0
+    - 20.10615947795639
+    - 20.59455493968047
+    weight: 1
+  name: PREDICT_4_C
+  type: category
+- loss:
+    class_weights:
+    - 0
+    - 1.0
+    - 9.834919286321156
+    - 10.319782473032005
+    weight: 1
+  name: PREDICT_5_C
+  type: category
+- loss:
+    class_weights:
+    - 0
+    - 1.0
+    - 4.403936356111469
+    - 4.510975035327367
+    weight: 1
+  name: PREDICT_6_C
+  type: category
+- loss:
+    class_weights:
+    - 0
+    - 1.0
+    - 2.428175121966774
+    - 2.4381263407293567
+    weight: 1
+  name: PREDICT_7_C
+  type: category
+- loss:
+    class_weights:
+    - 0
+    - 1.0
+    - 1.722504725646282
+    - 1.7733527025545444
+    weight: 1
+  name: PREDICT_8_C
+  type: category
+training:
+  batch_size: 32
+  decay: true
+  early_stop: 2
+  epochs: 100
+  learning_rate: 1.0e-05
+  regularization_lambda: 0.001
+  regularize: true
+  validation_field: combined
+  validation_measure: loss
